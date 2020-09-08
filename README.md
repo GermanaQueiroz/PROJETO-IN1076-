@@ -1,2 +1,2 @@
-# PROJETO-IN1076-
+# PROJETO-IN1076
 Projeto de programação utilizando Python - Tkinter
